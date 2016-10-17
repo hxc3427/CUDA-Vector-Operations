@@ -1,3 +1,11 @@
+//
+//  CPU.cpp
+//  hpalab5
+//
+//  Created by Harshdeep Singh Chawla on 10/4/16.
+//  Copyright © 2016 Harshdeep Singh Chawla. All rights reserved.
+//
+
 #include "common.h"
 
 void addVectorCPU( float* a, float* b, float* c, int size ){
